@@ -1,0 +1,677 @@
+96
+Inside addBox() -> *box: 0xfc7f901e01a0
+Inside addBox() -> *box: 0xfc7f901e0220
+Inside addBox() -> *box: 0xfc7f901e02a0
+Inside addBox() -> *box: 0xfc7f901e0320
+Inside addBox() -> *box: 0xfc7f901e03a0
+Inside addBox() -> *box: 0xfc7f901e0420
+Inside addBox() -> *box: 0xfc7f901e04a0
+Inside addBox() -> *box: 0xfc7f901e0520
+Inside addBox() -> *box: 0xfc7f901e05a0
+Inside addBox() -> *box: 0xfc7f901e0620
+Inside addBox() -> *box: 0xfc7f901e06a0
+Inside addBox() -> *box: 0xfc7f901e0720
+Inside addBox() -> *box: 0xfc7f901e07a0
+Inside addBox() -> *box: 0xfc7f901e0820
+Inside addBox() -> *box: 0xfc7f901e08a0
+Inside addBox() -> *box: 0xfc7f901e0920
+Inside addBox() -> *box: 0xfc7f901e09a0
+Inside addBox() -> *box: 0xfc7f901e0a20
+Inside addBox() -> *box: 0xfc7f901e0aa0
+Inside addBox() -> *box: 0xfc7f901e0b20
+Inside addBox() -> *box: 0xfc7f901e0ba0
+Inside addBox() -> *box: 0xfc7f901e0c20
+Inside addBox() -> *box: 0xfc7f901e0ca0
+Inside addBox() -> *box: 0xfc7f901e0d20
+Inside addBox() -> *box: 0xfc7f901e0da0
+Inside addBox() -> *box: 0xfc7f901e0e20
+Inside addBox() -> *box: 0xfc7f901e0ea0
+Inside addBox() -> *box: 0xfc7f901e0f20
+Inside addBox() -> *box: 0xfc7f901e0fa0
+Inside addBox() -> *box: 0xfc7f901e1020
+Inside addBox() -> *box: 0xfc7f901e10a0
+Inside addBox() -> *box: 0xfc7f901e1120
+Inside addBox() -> *box: 0xfc7f901e11a0
+Inside addBox() -> *box: 0xfc7f901e1220
+Inside addBox() -> *box: 0xfc7f901e12a0
+Inside addBox() -> *box: 0xfc7f901e1320
+Inside addBox() -> *box: 0xfc7f901e13a0
+Inside addBox() -> *box: 0xfc7f901e1420
+Inside addBox() -> *box: 0xfc7f901e14a0
+Inside addBox() -> *box: 0xfc7f901e1520
+Inside addBox() -> *box: 0xfc7f901e15a0
+Inside addBox() -> *box: 0xfc7f901e1620
+Inside addBox() -> *box: 0xfc7f901e16a0
+Inside addBox() -> *box: 0xfc7f901e1720
+Inside addBox() -> *box: 0xfc7f901e17a0
+Inside addBox() -> *box: 0xfc7f901e1820
+Inside addBox() -> *box: 0xfc7f901e18a0
+Inside addBox() -> *box: 0xfc7f901e1920
+Inside addBox() -> *box: 0xfc7f901e19a0
+Inside addBox() -> *box: 0xfc7f901e1a20
+Inside addBox() -> *box: 0xfc7f901e1aa0
+Inside addBox() -> *box: 0xfc7f901e1b20
+Inside addBox() -> *box: 0xfc7f901e1ba0
+Inside addBox() -> *box: 0xfc7f901e1c20
+Inside addBox() -> *box: 0xfc7f901e1ca0
+Inside addBox() -> *box: 0xfc7f901e1d20
+Inside addBox() -> *box: 0xfc7f901e1da0
+Inside addBox() -> *box: 0xfc7f901e1e20
+Inside addBox() -> *box: 0xfc7f901e1ea0
+Inside addBox() -> *box: 0xfc7f901e1f20
+Inside addBox() -> *box: 0xfc7f901e1fa0
+Inside addBox() -> *box: 0xfc7f901e2020
+Inside addBox() -> *box: 0xfc7f901e20a0
+Inside addBox() -> *box: 0xfc7f901e2120
+Inside addBox() -> *box: 0xfc7f901e21a0
+Inside addBox() -> *box: 0xfc7f901e2220
+Inside addBox() -> *box: 0xfc7f901e22a0
+Inside addBox() -> *box: 0xfc7f901e2320
+Inside addBox() -> *box: 0xfc7f901e23a0
+Inside addBox() -> *box: 0xfc7f901e2420
+Inside addBox() -> *box: 0xfc7f901e24a0
+Inside addBox() -> *box: 0xfc7f901e2520
+Inside addBox() -> *box: 0xfc7f901e25a0
+Inside addBox() -> *box: 0xfc7f901e2620
+Inside addBox() -> *box: 0xfc7f901e26a0
+Inside addBox() -> *box: 0xfc7f901e2720
+Inside addBox() -> *box: 0xfc7f901e27a0
+Inside addBox() -> *box: 0xfc7f901e2820
+Inside addBox() -> *box: 0xfc7f901e28a0
+Inside addBox() -> *box: 0xfc7f901e2920
+Inside addBox() -> *box: 0xfc7f901e29a0
+Inside addBox() -> *box: 0xfc7f901e2a20
+Inside addBox() -> *box: 0xfc7f901e2aa0
+Inside addBox() -> *box: 0xfc7f901e2b20
+Inside addBox() -> *box: 0xfc7f901e2ba0
+Inside addBox() -> *box: 0xfc7f901e2c20
+Inside addBox() -> *box: 0xfc7f901e2ca0
+Inside addBox() -> *box: 0xfc7f901e2d20
+Inside addBox() -> *box: 0xfc7f901e2da0
+Inside addBox() -> *box: 0xfc7f901e2e20
+Inside addBox() -> *box: 0xfc7f901e2ea0
+Inside addBox() -> *box: 0xfc7f901e2f20
+Inside addBox() -> *box: 0xfc7f901e2fa0
+Inside addBox() -> *box: 0xfc7f901e3020
+Inside addBox() -> *box: 0xfc7f901e30a0
+Inside addBox() -> *box: 0xfc7f901e3120
+Inside addBox() -> *box: 0xfc7f901e31a0
+Inside addBox() -> *box: 0xfc7f901e3220
+Inside addBox() -> *box: 0xfc7f901e32a0
+Inside addBox() -> *box: 0xfc7f901e3320
+Inside addBox() -> *box: 0xfc7f901e33a0
+Inside addBox() -> *box: 0xfc7f901e3420
+Inside addBox() -> *box: 0xfc7f901e34a0
+Inside addBox() -> *box: 0xfc7f901e3520
+Inside addBox() -> *box: 0xfc7f901e35a0
+Inside addBox() -> *box: 0xfc7f901e3620
+Inside addBox() -> *box: 0xfc7f901e36a0
+Inside addBox() -> *box: 0xfc7f901e3720
+Inside addBox() -> *box: 0xfc7f901e37a0
+Inside addBox() -> *box: 0xfc7f901e3820
+Inside addBox() -> *box: 0xfc7f901e38a0
+Inside addBox() -> *box: 0xfc7f901e3920
+Inside addBox() -> *box: 0xfc7f901e39a0
+Inside addBox() -> *box: 0xfc7f901e3a20
+Inside addBox() -> *box: 0xfc7f901e3aa0
+Inside addBox() -> *box: 0xfc7f901e3b20
+Inside addBox() -> *box: 0xfc7f901e3ba0
+Inside addBox() -> *box: 0xfc7f901e3c20
+Inside addBox() -> *box: 0xfc7f901e3ca0
+Inside addBox() -> *box: 0xfc7f901e3d20
+Inside addBox() -> *box: 0xfc7f901e3da0
+Inside addBox() -> *box: 0xfc7f901e3e20
+Inside addBox() -> *box: 0xfc7f901e3ea0
+Inside addBox() -> *box: 0xfc7f901e3f20
+Inside addBox() -> *box: 0xfc7f901e3fa0
+Inside addBox() -> *box: 0xfc7f901e4020
+Inside addBox() -> *box: 0xfc7f901e40a0
+Inside addBox() -> *box: 0xfc7f901e4120
+Inside addBox() -> *box: 0xfc7f901e41a0
+Inside addBox() -> *box: 0xfc7f901e4220
+Inside addBox() -> *box: 0xfc7f901e42a0
+Inside addBox() -> *box: 0xfc7f901e4320
+Inside addBox() -> *box: 0xfc7f901e43a0
+Inside addBox() -> *box: 0xfc7f901e4420
+Inside addBox() -> *box: 0xfc7f901e44a0
+Inside addBox() -> *box: 0xfc7f901e4520
+Inside addBox() -> *box: 0xfc7f901e45a0
+Inside addBox() -> *box: 0xfc7f901e4620
+Inside addBox() -> *box: 0xfc7f901e46a0
+Inside addBox() -> *box: 0xfc7f901e4720
+Inside addBox() -> *box: 0xfc7f901e47a0
+Inside addBox() -> *box: 0xfc7f901e4820
+Inside addBox() -> *box: 0xfc7f901e48a0
+Inside addBox() -> *box: 0xfc7f901e4920
+Inside addBox() -> *box: 0xfc7f901e49a0
+Inside addBox() -> *box: 0xfc7f901e4a20
+Inside addBox() -> *box: 0xfc7f901e4aa0
+Inside addBox() -> *box: 0xfc7f901e4b20
+Inside addBox() -> *box: 0xfc7f901e4ba0
+Inside addBox() -> *box: 0xfc7f901e4c20
+Inside addBox() -> *box: 0xfc7f901e4ca0
+Inside addBox() -> *box: 0xfc7f901e4d20
+Inside addBox() -> *box: 0xfc7f901e4da0
+Inside addBox() -> *box: 0xfc7f901e4e20
+Inside addBox() -> *box: 0xfc7f901e4ea0
+Inside addBox() -> *box: 0xfc7f901e4f20
+Inside addBox() -> *box: 0xfc7f901e4fa0
+Inside addBox() -> *box: 0xfc7f901e5020
+Inside addBox() -> *box: 0xfc7f901e50a0
+Inside addBox() -> *box: 0xfc7f901e5120
+Inside addBox() -> *box: 0xfc7f901e51a0
+Inside addBox() -> *box: 0xfc7f901e5220
+Inside addBox() -> *box: 0xfc7f901e52a0
+Inside addBox() -> *box: 0xfc7f901e5320
+Inside addBox() -> *box: 0xfc7f901e53a0
+randomclick: (189, 156)
+randomplayer: (342, 329)
+listSize: 165
+boxListSize: 165
+TL: (400, 350)
+TR: (450, 350)
+BL: (400, 400)
+BR: (450, 400)
+Center: (425, 375)
+isVisited: 0
+Parent address: (nil)
+UP address: 0xfc7f901e2aa0
+LEFT address: 0xfc7f901e25a0
+RIGHT address: 0xfc7f901e30a0
+DOWN address: 0xfc7f901e2ba0
+F->G->H: 0, 0, 0
+
+TL: (250, 150)
+TR: (300, 150)
+BL: (250, 200)
+BR: (300, 200)
+Center: (275, 175)
+isVisited: 0
+Parent address: (nil)
+UP address: 0xfc7f901e1820
+LEFT address: 0xfc7f901e1320
+RIGHT address: 0xfc7f901e1e20
+DOWN address: 0xfc7f901e1920
+F->G->H: 0, 0, 0
+
+Inside addBox() -> *box: 0xfc7f901e2b20
+Starting while loop
+openListSize: <1>
+closedListSize: <0>
+Current Box: 0xfc7f901e2b20
+TL: (400, 350)
+TR: (450, 350)
+BL: (400, 400)
+BR: (450, 400)
+Center: (425, 375)
+isVisited: 0
+Parent address: (nil)
+UP address: 0xfc7f901e2aa0
+LEFT address: 0xfc7f901e25a0
+RIGHT address: 0xfc7f901e30a0
+DOWN address: 0xfc7f901e2ba0
+F->G->H: 5, 0, 5
+
+Inside addBox() -> *box: 0xfc7f901e2b20
+aha 2
+Inside addBox() -> *box: 0xfc7f901e2aa0
+aha 4
+aha 2
+Inside addBox() -> *box: 0xfc7f901e25a0
+aha 4
+aha 2
+Inside addBox() -> *box: 0xfc7f901e30a0
+aha 4
+aha 2
+Inside addBox() -> *box: 0xfc7f901e2ba0
+aha 4
+openListSize: <4>
+closedListSize: <1>
+Current Box: 0xfc7f901e25a0
+TL: (350, 350)
+TR: (400, 350)
+BL: (350, 400)
+BR: (400, 400)
+Center: (375, 375)
+isVisited: 0
+Parent address: 0xfc7f901e2b20
+UP address: 0xfc7f901e2520
+LEFT address: 0xfc7f901e2020
+RIGHT address: 0xfc7f901e2b20
+DOWN address: 0xfc7f901e2620
+F->G->H: 5, 1, 4
+
+Inside addBox() -> *box: 0xfc7f901e25a0
+aha 2
+Inside addBox() -> *box: 0xfc7f901e2520
+aha 4
+aha 2
+Inside addBox() -> *box: 0xfc7f901e2020
+aha 4
+aha 1
+aha 2
+Inside addBox() -> *box: 0xfc7f901e2620
+aha 4
+openListSize: <6>
+closedListSize: <2>
+Current Box: 0xfc7f901e2520
+TL: (350, 300)
+TR: (400, 300)
+BL: (350, 350)
+BR: (400, 350)
+Center: (375, 325)
+isVisited: 0
+Parent address: 0xfc7f901e25a0
+UP address: 0xfc7f901e24a0
+LEFT address: 0xfc7f901e1fa0
+RIGHT address: 0xfc7f901e2aa0
+DOWN address: 0xfc7f901e25a0
+F->G->H: 5, 2, 3
+
+Inside addBox() -> *box: 0xfc7f901e2520
+aha 2
+Inside addBox() -> *box: 0xfc7f901e24a0
+aha 4
+aha 2
+Inside addBox() -> *box: 0xfc7f901e1fa0
+aha 4
+aha 3
+aha 1
+openListSize: <7>
+closedListSize: <3>
+Current Box: 0xfc7f901e24a0
+TL: (350, 250)
+TR: (400, 250)
+BL: (350, 300)
+BR: (400, 300)
+Center: (375, 275)
+isVisited: 0
+Parent address: 0xfc7f901e2520
+UP address: 0xfc7f901e2420
+LEFT address: 0xfc7f901e1f20
+RIGHT address: 0xfc7f901e2a20
+DOWN address: 0xfc7f901e2520
+F->G->H: 5, 3, 2
+
+Inside addBox() -> *box: 0xfc7f901e24a0
+aha 2
+Inside addBox() -> *box: 0xfc7f901e2420
+aha 4
+aha 2
+Inside addBox() -> *box: 0xfc7f901e1f20
+aha 4
+aha 2
+Inside addBox() -> *box: 0xfc7f901e2a20
+aha 4
+aha 1
+openListSize: <9>
+closedListSize: <4>
+Current Box: 0xfc7f901e2aa0
+TL: (400, 300)
+TR: (450, 300)
+BL: (400, 350)
+BR: (450, 350)
+Center: (425, 325)
+isVisited: 0
+Parent address: 0xfc7f901e2b20
+UP address: 0xfc7f901e2a20
+LEFT address: 0xfc7f901e2520
+RIGHT address: 0xfc7f901e3020
+DOWN address: 0xfc7f901e2b20
+F->G->H: 5, 1, 4
+
+Inside addBox() -> *box: 0xfc7f901e2aa0
+aha 4
+aha 1
+aha 2
+Inside addBox() -> *box: 0xfc7f901e3020
+aha 4
+aha 1
+openListSize: <9>
+closedListSize: <5>
+Current Box: 0xfc7f901e2a20
+TL: (400, 250)
+TR: (450, 250)
+BL: (400, 300)
+BR: (450, 300)
+Center: (425, 275)
+isVisited: 0
+Parent address: 0xfc7f901e2aa0
+UP address: 0xfc7f901e29a0
+LEFT address: 0xfc7f901e24a0
+RIGHT address: 0xfc7f901e2fa0
+DOWN address: 0xfc7f901e2aa0
+F->G->H: 5, 2, 3
+
+Inside addBox() -> *box: 0xfc7f901e2a20
+aha 2
+Inside addBox() -> *box: 0xfc7f901e29a0
+aha 4
+aha 1
+aha 2
+Inside addBox() -> *box: 0xfc7f901e2fa0
+aha 4
+aha 1
+openListSize: <10>
+closedListSize: <6>
+Current Box: 0xfc7f901e2ba0
+TL: (400, 400)
+TR: (450, 400)
+BL: (400, 450)
+BR: (450, 450)
+Center: (425, 425)
+isVisited: 0
+Parent address: 0xfc7f901e2b20
+UP address: 0xfc7f901e2b20
+LEFT address: 0xfc7f901e2620
+RIGHT address: 0xfc7f901e3120
+DOWN address: 0xfc7f901e2c20
+F->G->H: 6, 1, 5
+
+Inside addBox() -> *box: 0xfc7f901e2ba0
+aha 1
+aha 3
+aha 2
+Inside addBox() -> *box: 0xfc7f901e3120
+aha 4
+aha 2
+Inside addBox() -> *box: 0xfc7f901e2c20
+aha 4
+openListSize: <11>
+closedListSize: <7>
+Current Box: 0xfc7f901e2020
+TL: (300, 350)
+TR: (350, 350)
+BL: (300, 400)
+BR: (350, 400)
+Center: (325, 375)
+isVisited: 0
+Parent address: 0xfc7f901e25a0
+UP address: 0xfc7f901e1fa0
+LEFT address: 0xfc7f901e1aa0
+RIGHT address: 0xfc7f901e25a0
+DOWN address: 0xfc7f901e20a0
+F->G->H: 6, 2, 4
+
+Inside addBox() -> *box: 0xfc7f901e2020
+aha 3
+aha 2
+Inside addBox() -> *box: 0xfc7f901e1aa0
+aha 4
+aha 1
+aha 2
+Inside addBox() -> *box: 0xfc7f901e20a0
+aha 4
+openListSize: <12>
+closedListSize: <8>
+Current Box: 0xfc7f901e1fa0
+TL: (300, 300)
+TR: (350, 300)
+BL: (300, 350)
+BR: (350, 350)
+Center: (325, 325)
+isVisited: 0
+Parent address: 0xfc7f901e2520
+UP address: 0xfc7f901e1f20
+LEFT address: 0xfc7f901e1a20
+RIGHT address: 0xfc7f901e2520
+DOWN address: 0xfc7f901e2020
+F->G->H: 6, 3, 3
+
+Inside addBox() -> *box: 0xfc7f901e1fa0
+aha 3
+aha 2
+Inside addBox() -> *box: 0xfc7f901e1a20
+aha 4
+aha 1
+aha 1
+openListSize: <12>
+closedListSize: <9>
+Current Box: 0xfc7f901e2420
+TL: (350, 200)
+TR: (400, 200)
+BL: (350, 250)
+BR: (400, 250)
+Center: (375, 225)
+isVisited: 0
+Parent address: 0xfc7f901e24a0
+UP address: 0xfc7f901e23a0
+LEFT address: 0xfc7f901e1ea0
+RIGHT address: 0xfc7f901e29a0
+DOWN address: 0xfc7f901e24a0
+F->G->H: 6, 4, 2
+
+Inside addBox() -> *box: 0xfc7f901e2420
+aha 2
+Inside addBox() -> *box: 0xfc7f901e23a0
+aha 4
+aha 2
+Inside addBox() -> *box: 0xfc7f901e1ea0
+aha 4
+aha 3
+aha 1
+openListSize: <13>
+closedListSize: <10>
+Current Box: 0xfc7f901e1f20
+TL: (300, 250)
+TR: (350, 250)
+BL: (300, 300)
+BR: (350, 300)
+Center: (325, 275)
+isVisited: 0
+Parent address: 0xfc7f901e24a0
+UP address: 0xfc7f901e1ea0
+LEFT address: 0xfc7f901e19a0
+RIGHT address: 0xfc7f901e24a0
+DOWN address: 0xfc7f901e1fa0
+F->G->H: 6, 4, 2
+
+Inside addBox() -> *box: 0xfc7f901e1f20
+aha 3
+aha 2
+Inside addBox() -> *box: 0xfc7f901e19a0
+aha 4
+aha 1
+aha 1
+openListSize: <13>
+closedListSize: <11>
+Current Box: 0xfc7f901e29a0
+TL: (400, 200)
+TR: (450, 200)
+BL: (400, 250)
+BR: (450, 250)
+Center: (425, 225)
+isVisited: 0
+Parent address: 0xfc7f901e2a20
+UP address: 0xfc7f901e2920
+LEFT address: 0xfc7f901e2420
+RIGHT address: 0xfc7f901e2f20
+DOWN address: 0xfc7f901e2a20
+F->G->H: 6, 3, 3
+
+Inside addBox() -> *box: 0xfc7f901e29a0
+aha 2
+Inside addBox() -> *box: 0xfc7f901e2920
+aha 4
+aha 1
+aha 2
+Inside addBox() -> *box: 0xfc7f901e2f20
+aha 4
+aha 1
+openListSize: <14>
+closedListSize: <12>
+Current Box: 0xfc7f901e1ea0
+TL: (300, 200)
+TR: (350, 200)
+BL: (300, 250)
+BR: (350, 250)
+Center: (325, 225)
+isVisited: 0
+Parent address: 0xfc7f901e2420
+UP address: 0xfc7f901e1e20
+LEFT address: 0xfc7f901e1920
+RIGHT address: 0xfc7f901e2420
+DOWN address: 0xfc7f901e1f20
+F->G->H: 6, 5, 1
+
+Inside addBox() -> *box: 0xfc7f901e1ea0
+aha 2
+Inside addBox() -> *box: 0xfc7f901e1e20
+aha 4
+aha 2
+Inside addBox() -> *box: 0xfc7f901e1920
+aha 4
+aha 1
+aha 1
+openListSize: <15>
+closedListSize: <13>
+Current Box: 0xfc7f901e30a0
+TL: (450, 350)
+TR: (500, 350)
+BL: (450, 400)
+BR: (500, 400)
+Center: (475, 375)
+isVisited: 0
+Parent address: 0xfc7f901e2b20
+UP address: 0xfc7f901e3020
+LEFT address: 0xfc7f901e2b20
+RIGHT address: 0xfc7f901e3620
+DOWN address: 0xfc7f901e3120
+F->G->H: 6, 1, 5
+
+Inside addBox() -> *box: 0xfc7f901e30a0
+aha 3
+aha 1
+aha 2
+Inside addBox() -> *box: 0xfc7f901e3620
+aha 4
+aha 3
+openListSize: <15>
+closedListSize: <14>
+Current Box: 0xfc7f901e3020
+TL: (450, 300)
+TR: (500, 300)
+BL: (450, 350)
+BR: (500, 350)
+Center: (475, 325)
+isVisited: 0
+Parent address: 0xfc7f901e2aa0
+UP address: 0xfc7f901e2fa0
+LEFT address: 0xfc7f901e2aa0
+RIGHT address: 0xfc7f901e35a0
+DOWN address: 0xfc7f901e30a0
+F->G->H: 7, 2, 5
+
+Inside addBox() -> *box: 0xfc7f901e3020
+aha 3
+aha 1
+aha 2
+Inside addBox() -> *box: 0xfc7f901e35a0
+aha 4
+aha 1
+openListSize: <15>
+closedListSize: <15>
+Current Box: 0xfc7f901e2fa0
+TL: (450, 250)
+TR: (500, 250)
+BL: (450, 300)
+BR: (500, 300)
+Center: (475, 275)
+isVisited: 0
+Parent address: 0xfc7f901e2a20
+UP address: 0xfc7f901e2f20
+LEFT address: 0xfc7f901e2a20
+RIGHT address: 0xfc7f901e3520
+DOWN address: 0xfc7f901e3020
+F->G->H: 7, 3, 4
+
+Inside addBox() -> *box: 0xfc7f901e2fa0
+aha 3
+aha 1
+aha 2
+Inside addBox() -> *box: 0xfc7f901e3520
+aha 4
+aha 1
+openListSize: <15>
+closedListSize: <16>
+Current Box: 0xfc7f901e1aa0
+TL: (250, 350)
+TR: (300, 350)
+BL: (250, 400)
+BR: (300, 400)
+Center: (275, 375)
+isVisited: 0
+Parent address: 0xfc7f901e2020
+UP address: 0xfc7f901e1a20
+LEFT address: 0xfc7f901e1520
+RIGHT address: 0xfc7f901e2020
+DOWN address: 0xfc7f901e1b20
+F->G->H: 7, 3, 4
+
+Inside addBox() -> *box: 0xfc7f901e1aa0
+aha 3
+aha 2
+Inside addBox() -> *box: 0xfc7f901e1520
+aha 4
+aha 1
+aha 2
+Inside addBox() -> *box: 0xfc7f901e1b20
+aha 4
+openListSize: <16>
+closedListSize: <17>
+Current Box: 0xfc7f901e1a20
+TL: (250, 300)
+TR: (300, 300)
+BL: (250, 350)
+BR: (300, 350)
+Center: (275, 325)
+isVisited: 0
+Parent address: 0xfc7f901e1fa0
+UP address: 0xfc7f901e19a0
+LEFT address: 0xfc7f901e14a0
+RIGHT address: 0xfc7f901e1fa0
+DOWN address: 0xfc7f901e1aa0
+F->G->H: 7, 4, 3
+
+Inside addBox() -> *box: 0xfc7f901e1a20
+aha 3
+aha 2
+Inside addBox() -> *box: 0xfc7f901e14a0
+aha 4
+aha 1
+aha 1
+openListSize: <16>
+closedListSize: <18>
+Current Box: 0xfc7f901e23a0
+TL: (350, 150)
+TR: (400, 150)
+BL: (350, 200)
+BR: (400, 200)
+Center: (375, 175)
+isVisited: 0
+Parent address: 0xfc7f901e2420
+UP address: 0xfc7f901e2320
+LEFT address: 0xfc7f901e1e20
+RIGHT address: 0xfc7f901e2920
+DOWN address: 0xfc7f901e2420
+F->G->H: 7, 5, 2
+
+Inside addBox() -> *box: 0xfc7f901e23a0
+aha 2
+Inside addBox() -> *box: 0xfc7f901e2320
+aha 4
+aha 3
+aha 3
+aha 1
+openListSize: <16>
+closedListSize: <19>
+Current Box: 0xfc7f901e19a0
+TL: (250, 250)
+TR: (300, 250)
+BL: (250, 300)
+BR: (300, 300)
+Center: (275, 275)
+isVisited: 0
+Parent address: 0xfc7f901e1f20
+UP address: 0xfc7f901e1920
+LEFT address: 0xfc
