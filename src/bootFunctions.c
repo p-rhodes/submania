@@ -107,25 +107,25 @@ bool initialize(Game *game)
 
 bool loadMedia(Game *game)
 {
-	game->o2MachineLitTexture=IMG_LoadTexture(game->renderer, "o2MachineLit.png");
+	game->o2MachineLitTexture=IMG_LoadTexture(game->renderer, "../data/o2MachineLit.png");
 	if (!game->o2MachineLitTexture) {
 		fprintf(stderr, "Error creating o2Img texture!\nError: %s\n", IMG_GetError());
 		return true;
 	}
 
-	game->o2MachineTexture=IMG_LoadTexture(game->renderer, "o2Machine.png");
+	game->o2MachineTexture=IMG_LoadTexture(game->renderer, "../data/o2Machine.png");
 	if (!game->o2MachineTexture) {
 		fprintf(stderr, "Error creating o2Img texture!\nError: %s\n", IMG_GetError());
 		return true;
 	}
 
-	game->background=IMG_LoadTexture(game->renderer, "SubMoveTest.png");
+	game->background=IMG_LoadTexture(game->renderer, "../data/SubMoveTest.png");
 	if (!game->background) {
 		fprintf(stderr, "Error creating IMG texture!\nError: %s\n", IMG_GetError());
 		return true;
 	}
 
-	game->textFont=TTF_OpenFont("freesansbold.ttf", TEXT_SIZE);
+	game->textFont=TTF_OpenFont("../data/freesansbold.ttf", TEXT_SIZE);
 	if (!game->textFont) {
 		fprintf(stderr, "Error loading Font!\nError: %s\n", SDL_GetError());
 		return true;
@@ -146,7 +146,7 @@ bool loadMedia(Game *game)
 		return true;
 	}
 
-	game->spriteImage=IMG_LoadTexture(game->renderer, "playerSprite.png");
+	game->spriteImage=IMG_LoadTexture(game->renderer, "../data/playerSprite.png");
 	if (!game->spriteImage) {
 		fprintf(stderr, "Error loading player sprite!\nError: %s\n", IMG_GetError());
 		return true;
