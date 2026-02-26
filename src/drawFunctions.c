@@ -9,8 +9,8 @@ void makeListTLCoords(Node *firstnode)
 {
 	//Make a linked list of all 'top left' coordinates in the grid, which we will use to 
 	//generate the grid of boxes
-	for (int i=50;i<750;i+=50) {
-		for (int j=50;j<550;j+=50) {
+	for (int i=50;i<750;i+=WALL_SIDE_LENGTH) {
+		for (int j=50;j<550;j+=WALL_SIDE_LENGTH) {
 			Coord temp=makeNewCoord(i, j);
 			//printf("Temp: (%d, %d)\n", temp.x, temp.y);
 			add(firstnode, &temp);
@@ -188,8 +188,8 @@ void drawGridWalls(Game *game, boxNode *firstBoxNode)
 			
 			wall.x=temp->data->TL.x;
 			wall.y=temp->data->TL.y;
-			wall.w=50;
-			wall.h=50;
+			wall.w=WALL_SIDE_LENGTH;
+			wall.h=WALL_SIDE_LENGTH;;
 
 			if (0 != SDL_RenderFillRect(game->renderer, &wall)) {
 				fprintf(stderr, "Error drawing Walls!\nError: %s\n", SDL_GetError());

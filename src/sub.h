@@ -18,12 +18,14 @@
 #define SDL_WINDOW_FLAG 0 	//0 for auto, chooses which backend. (metal, vulkan, opengl)
 #define RESIZE_FLAG SDL_TRUE
 #define TEXT_SIZE 36 //point (not pixel, size)
-#define CONSOLE_OUTPUT_ENABLED true 
+#define CONSOLE_OUTPUT_ENABLED false
 
 #define UP 0
 #define LEFT 1
 #define RIGHT 2
 #define DOWN 3
+
+#define WALL_SIDE_LENGTH 25
 
 struct Coord {
 	int x;
